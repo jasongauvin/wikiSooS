@@ -3,7 +3,6 @@ package controllers
 
 import (
 	"net/http"
-
 	"github.com/victorsteven/fullstack/api/responses"
 )
 
