@@ -160,4 +160,3 @@ func (u *User) DeleteAUser(db *gorm.DB, uid uint32) (int64, error) {
 	}
 	return db.RowsAffected, nil
 }
-view rawUser.go hosted with ❤ by GitHub
